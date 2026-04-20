@@ -1,4 +1,5 @@
 **Fundamentos de Clases y Objetos en Python**
+
 Este módulo profundiza en la estructura fundamental de la programación moderna. Entender las clases es el primer paso para construir software modular, reutilizable y profesional.
 
 Una clase es como un plano o molde para crear objetos.
