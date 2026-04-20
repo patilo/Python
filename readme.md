@@ -16,7 +16,8 @@ for: Recorrido eficiente de colecciones y rangos.
 Colecciones de Datos:
 Listas: Datos ordenados y mutables.
 Tuplas: Datos inmutables para seguridad de memoria.
-Diccionarios: Estructuras llave-valor (la base del formato JSON).
+Diccionarios: Estructuras llave-valor (la base del formato JSON).  
+
 
 
 **2. 🟡 Funciones y Modularización (/funciones)**
@@ -24,7 +25,8 @@ Aprenderás a dejar de escribir código repetitivo y empezar a crear componentes
 Definición de Funciones (def): Creación de bloques lógicos.
 Parámetros y Retornos: Cómo enviar y recibir información entre funciones.
 Scope (Alcance): Entender la diferencia entre variables globales y locales.
-Funciones Lambda: Introducción a la programación funcional simplificada.
+Funciones Lambda: Introducción a la programación funcional simplificada.  
+
 
 
 **3. 🔴 Métodos y Lógica Avanzada (/metodos)**
@@ -32,7 +34,8 @@ Donde la lógica se encuentra con la eficiencia.
 Métodos de Strings: Manipulación avanzada de texto.
 Métodos de Listas y Diccionarios: Ordenamiento, filtrado y transformación de datos.
 Comprensión de Listas (List Comprehension): Código elegante y Pythonic en una sola línea.
-Manejo de Errores: Uso de try / except para crear programas robustos que no se detienen ante fallos.
+Manejo de Errores: Uso de try / except para crear programas robustos que no se detienen ante fallos.  
+
 
 
 **4. 🟣 Programación Orientada a Objetos (POO) (/poo)** 
@@ -43,13 +46,15 @@ Los 4 Pilares de la POO:
 Encapsulamiento: Protegiendo los datos internos (uso de _ y __).
 Abstracción: Simplificando la complejidad para el usuario final.
 Herencia: Creando jerarquías para reutilizar código de forma inteligente.
-Polimorfismo: Permitiendo que diferentes objetos respondan a la misma instrucción de formas distintas.
+Polimorfismo: Permitiendo que diferentes objetos respondan a la misma instrucción de formas distintas.  
+
 
 
 🛠️ Requisitos previos
 Para ejecutar estos laboratorios, asegúrate de tener instalado:
 Python 3.10+
-Visual Studio Code (Extensión de Python recomendada).
+Visual Studio Code (Extensión de Python recomendada).  
+
 
 
 **🏆 ¿Por qué aprender con este repositorio?**
