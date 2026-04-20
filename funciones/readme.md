@@ -60,3 +60,10 @@ El polimorfismo permite que diferentes clases tengan métodos con el mismo nombr
 Concepto: Significa "muchas formas".
 
 Uso Real: Un método llamado enviar_notificacion() podría funcionar enviando un Email en una clase y un SMS en otra. El programador solo llama a enviar_notificacion() sin preocuparse de cómo se ejecuta internamente cada una.
+
+Característica,Función,Método
+Definición,"Independiente, fuera de clases.",Definido dentro de una class.
+Acceso a Datos,Solo a lo que recibe por parámetros.,Tiene acceso a self (todo el objeto).
+Invocación,Por su nombre directo: mi_funcion().,A través de un objeto: objeto.mi_metodo().
+
+
