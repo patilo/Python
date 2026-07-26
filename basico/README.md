@@ -1,4 +1,4 @@
-**🐍 Python Básico: Fundamentos Esenciales**
+**Python Básico: Fundamentos Esenciales**
 
 Este repositorio sirve como una guía rápida y un conjunto de ejemplos básicos para entender la sintaxis y las estructuras de datos fundamentales de Python. Ideal para principiantes.
 
