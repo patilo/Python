@@ -1,4 +1,4 @@
-** 🚀 Domina Python: curso de 0 a backend con python 🚀 **
+**  Domina Python: curso de 0 a backend con python  **
 ¡Bienvenido a este repositorio de entrenamiento! Este espacio ha sido diseñado para transformar a estudiantes de primer año en programadores capaces de resolver problemas reales. Aquí no solo aprenderás sintaxis, sino la lógica de ingeniería necesaria para construir software escalable.
 
 📂 Estructura del RoadMap
@@ -57,7 +57,7 @@ Visual Studio Code (Extensión de Python recomendada).
 
 
 
-**🏆 ¿Por qué aprender con este repositorio?**
+** ¿Por qué aprender con este repositorio?**
 Como docente e Ingeniero, he seleccionado ejercicios que simulan entornos reales de Data Engineering y Ciberseguridad. Al completar estos módulos, no solo sabrás "qué" hace un código, sino "por qué" se utiliza esa estructura en la industria profesional.
 
 
