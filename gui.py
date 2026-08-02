@@ -153,7 +153,7 @@ class AppPrincipal(ctk.CTk):
     def abrir_subventana(self):
         """Abre la ventana flotante de opciones extra."""
         subventana = VentanaAjustesAvanzados(self)
-        subventana.positionfrom(CENTER)
+        
 
     def accion_guardar(self):
         nombre = self.entry_nombre.get()
